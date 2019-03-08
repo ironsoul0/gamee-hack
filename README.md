@@ -8,9 +8,9 @@
 
 <p align="center">Simple proxy server for hacking <bold>Gamee</bold> games</p>
 
-## Introduction
+## 💡 Introduction
 
-The idea of creating such Proxy was initially offered by @KtlTheBest. Our first try to change the score was through intercepting requests in BurpSuite. However, this was not enough since server of Gamee was able to see the delay. That is how this proxy was born.
+The idea of creating such Proxy was initially offered by [@KtlTheBest](https://github.com/KtlTheBest). Our first try to change the score was through intercepting requests in BurpSuite. However, this was not enough since server of Gamee was able to see the delay. That is how this proxy was born.
 
 ## 🔨 Usage
 
